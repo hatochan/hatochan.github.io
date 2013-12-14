@@ -1,4 +1,4 @@
-# 俺のゼニはどこ行った for 横浜
+# 税金はどこ行った for 川越
 
 wheredoesmymoney.orgの横浜バージョンです．
 
